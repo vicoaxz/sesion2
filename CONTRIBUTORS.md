@@ -1,2 +1,4 @@
-vico palomino
-ivan soria
+Yanet Lopez
+Vico Palomino
+Carlos Castro
+Dilio 
